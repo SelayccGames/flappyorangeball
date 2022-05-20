@@ -1,0 +1,119 @@
+{
+    "m_SelectedDeviceId": "8DKBDYY9IZINGYFY",
+    "m_SelectedPackage": {
+        "deviceId": "8DKBDYY9IZINGYFY",
+        "name": "com.selayccgames.FlappyOrangeBall",
+        "processId": 29263,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "8DKBDYY9IZINGYFY",
+            "name": "com.oppo.launcher",
+            "processId": 2456,
+            "exited": false
+        },
+        {
+            "deviceId": "8DKBDYY9IZINGYFY",
+            "name": "com.selayccgames.FlappyOrangeBall",
+            "processId": 11055,
+            "exited": true
+        },
+        {
+            "deviceId": "8DKBDYY9IZINGYFY",
+            "name": "com.selayccgames.FlappyOrangeBall",
+            "processId": 13931,
+            "exited": true
+        },
+        {
+            "deviceId": "8DKBDYY9IZINGYFY",
+            "name": "com.selayccgames.FlappyOrangeBall",
+            "processId": 23771,
+            "exited": true
+        },
+        {
+            "deviceId": "8DKBDYY9IZINGYFY",
+            "name": "com.selayccgames.FlappyOrangeBall",
+            "processId": 5445,
+            "exited": true
+        },
+        {
+            "deviceId": "8DKBDYY9IZINGYFY",
+            "name": "com.selayccgames.FlappyOrangeBall",
+            "processId": 21235,
+            "exited": false
+        },
+        {
+            "deviceId": "8DKBDYY9IZINGYFY",
+            "name": "com.selayccgames.FlappyOrangeBall",
+            "processId": 24811,
+            "exited": false
+        },
+        {
+            "deviceId": "8DKBDYY9IZINGYFY",
+            "name": "com.selayccgames.FlappyOrangeBall",
+            "processId": 26677,
+            "exited": false
+        },
+        {
+            "deviceId": "8DKBDYY9IZINGYFY",
+            "name": "com.selayccgames.FlappyOrangeBall",
+            "processId": 29263,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": true,
+    "m_SymbolPaths": []
+}
